@@ -6,6 +6,8 @@ I am a final year AI and ML Engineering student at PDA College of Engineering, K
 -------------------------------------------------------------------------------------------
 
  ## 🛠️ Tech Stack
+ Languages
+ 
  Python,Java,SQL 
  ----------------------------------------------------------------------------------------------
 
