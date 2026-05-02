@@ -1,22 +1,13 @@
 # 👋 Hi, I’m @muqtesham sumaid
 ---------------------------------------------------------------------------------------
 
-
-## 👀 I’m interested in :
- - software development
- - Cyber Security
- - machine learning
- - and open-source contributions
--------------------------------------------------------------------------------------------- 
-
-
-## 🌱 I’m currently learning ethical hacking and exploring cybersecurity
+## 🌱 currently learning 
+I am a final year AI and ML Engineering student at PDA College of Engineering, Kalaburgi. I am currently exploring topics in Artificial Intelligence, Machine Learning, . I'm also learning to build robust systems using technologies with various frameworks.
 -------------------------------------------------------------------------------------------
 
-
- ## 💞️collaboration :
- -I’m looking to collaborate on beginner-friendly open-source projects and coding challenges  
- ---------------------------------------------------------------------------------------------------
+ ## 🛠️ Tech Stack
+ Python,Java,SQL 
+ ----------------------------------------------------------------------------------------------
 
  
 #📫 How to reach me:
